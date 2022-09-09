@@ -1,4 +1,4 @@
-//Anirudh Sathish
+//@ Author : Anirudh Sathish
 //To find if a given number , less than 10^5 , is a carmiachel number 
 
 
